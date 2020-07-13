@@ -1,2 +1,2 @@
 
-# Run the index.html file on your browser using "localhost index.html".
+# Run the index.php file on your browser using "localhost index.php".
